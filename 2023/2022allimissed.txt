@@ -1,4 +1,6 @@
-10:
+albums reviewed: 7
+
+10: 4
 astromeda - i've been you, will you hold me? 
 dawn richard / spencer zahn - pigments
 fievel is glauque - flaming swords
@@ -6,11 +8,11 @@ turquoisedeath / vmrrobotic - fool's gold
 ------------------------------------------------------------
 9:
 ------------------------------------------------------------
-8:
+8: 2
 astromeda - boys at their gas stations
 little simz - no thank you 
 ------------------------------------------------------------
-7:
+7: 1
 cecily renns - dysfunctional bunnygirl
 ------------------------------------------------------------
 6:
