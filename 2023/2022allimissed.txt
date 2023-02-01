@@ -1,12 +1,15 @@
-albums reviewed: 7
+albums reviewed: 10
 
-10: 4
+10: 5
 astromeda - i've been you, will you hold me? 
 dawn richard / spencer zahn - pigments
 fievel is glauque - flaming swords
+for tracy hyde - hotel insomnia
 turquoisedeath / vmrrobotic - fool's gold
 ------------------------------------------------------------
-9:
+9: 2
+hitsujibungaku - our hope
+tokyo shoegazer - moonworld playground
 ------------------------------------------------------------
 8: 2
 astromeda - boys at their gas stations
