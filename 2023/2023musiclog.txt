@@ -1,4 +1,4 @@
-albums reviewed: 6
+albums reviewed: 10
 
 10:
 ------------------------------------------------------------
@@ -10,10 +10,14 @@ park zero - m
 stuart macrae - terra firma
 tamagotchi massacre - i guess i'm a woman now...
 ------------------------------------------------------------
-7: 1
+7: 4
 cecily renns - pop2
+chance de la soul - stay shining
+gojii - currents EP
+toadmilk - breaking mind EP
 ------------------------------------------------------------
-6:
+6: 1
+nicole dollanganger - married in mount airy 
 ------------------------------------------------------------
 5:
 ------------------------------------------------------------
