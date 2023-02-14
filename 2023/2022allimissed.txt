@@ -1,4 +1,4 @@
-albums reviewed: 10
+albums reviewed: 12
 
 10: 5
 astromeda - i've been you, will you hold me? 
@@ -11,8 +11,10 @@ turquoisedeath / vmrrobotic - fool's gold
 hitsujibungaku - our hope
 tokyo shoegazer - moonworld playground
 ------------------------------------------------------------
-8: 2
+8: 4
 astromeda - boys at their gas stations
+charlie lomonaco - for the sake of this argument...
+della zyr - nebulous you EP
 little simz - no thank you 
 ------------------------------------------------------------
 7: 1
