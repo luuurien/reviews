@@ -1,4 +1,4 @@
-albums reviewed: 11 
+albums reviewed: 14
 1-2: olive
 3-4: yellow
 5-6:orange
@@ -12,16 +12,19 @@ albums reviewed: 11
 8: 5
 j. wiegold - norfolk serpent
 park zero - m
+skyzoo - the mind of a saint
 stuart macrae - terra firma
 tamagotchi massacre - i guess i'm a woman now...
 ------------------------------------------------------------
-7: 4
+7: 5
+*teeth - lost memories
 cecily renns - pop2
 chance de la soul - stay shining
 gojii - currents EP
 toadmilk - breaking mind EP
 ------------------------------------------------------------
-6: 1
+6: 2
+mac demarco - five easy hot dogs
 nicole dollanganger - married in mount airy 
 ------------------------------------------------------------
 5:
