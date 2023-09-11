@@ -1,14 +1,15 @@
-albums reviewed: 33
+albums reviewed: 35
 1-2: olive
 3-4: yellow
 5-6:orange
 7-8:red
 9-10: maroon
 ------------------------------------------------------------
-10: 6
+10: 7
 indigo de souza - all of this will end 
 james ivy - everything perfect EP
 kelela - raven
+old saw - sewn the name 
 omar ahmad - inheritance 
 robert farrugia - cipress
 yo la tengo - this stupid world 
@@ -17,7 +18,8 @@ yo la tengo - this stupid world
 .cutspace - 2022: the morningseeds can't help...
 liv.e - girl in the half pearl 
 ------------------------------------------------------------
-8: 11
+8: 12
+hannah jadagu - aperture
 j. wiegold - norfolk serpent
 jonah yano - portrait of a dog 
 jose james - on & on 
