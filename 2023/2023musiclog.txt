@@ -1,4 +1,4 @@
-albums reviewed: 35
+albums reviewed: 37
 1-2: olive
 3-4: yellow
 5-6:orange
@@ -18,7 +18,7 @@ yo la tengo - this stupid world
 .cutspace - 2022: the morningseeds can't help...
 liv.e - girl in the half pearl 
 ------------------------------------------------------------
-8: 12
+8: 13
 hannah jadagu - aperture
 j. wiegold - norfolk serpent
 jonah yano - portrait of a dog 
@@ -30,6 +30,7 @@ skyzoo - the mind of a saint
 stuart macrae - terra firma
 tamagotchi massacre - i guess i'm a woman now...
 tennis - pollen 
+turquoisedeath - se bueno 
 young fathers - heavy heavy 
 ------------------------------------------------------------
 7: 7
@@ -49,8 +50,9 @@ raye - my 21st century blues
 ------------------------------------------------------------
 5:
 ------------------------------------------------------------
-4: 1
+4: 2
 rebecca black - let her burn 
+travis scott - utopia
 ------------------------------------------------------------
 3:
 ------------------------------------------------------------
